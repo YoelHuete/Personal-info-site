@@ -1,0 +1,23 @@
+<div class="experience">
+        <h3>Experience</h3>
+        <h4>IBM: 2015-2018</h4>
+        <p>Accounts payable support to suppliers, providing information about their accounts, payments and pending invoices,  resolver issues about overdue payments and unregister invoices.</p>
+        <h4>Manpower: 2018-2019</h4>
+        <p>Work as an outsourcing agent for Citi on invoicing team,  responsible to register invoices with Purchase order on Latam process </p>
+        <h4>Citi: 2019-Currently working</h4>
+        <p>Working on purchase order process for North America,  creation and resolving problems related to purchase orders for suppliers on P2P, reporting team with foreign Tax for Mexico,
+        and now working as a Risk Analyst for Mexico country.
+        </p>
+      </div>
+
+      <div class="language">
+        <h3>Language</h3>
+        <p>Spanish-Native</p>
+        <p>English-Daily use</p>
+      </div>
+      <div class="projects">
+        <h3>Projects</h3>
+      </div>
+      <footer>
+
+      </footer>
